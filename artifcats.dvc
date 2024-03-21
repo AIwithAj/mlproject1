@@ -1,0 +1,6 @@
+outs:
+- md5: e6b0eaef026cdfab51044950699809cb.dir
+  size: 56139
+  nfiles: 2
+  hash: md5
+  path: artifcats
